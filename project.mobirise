@@ -44,24 +44,8 @@
       }
     ],
     "imageResize": true,
-    "chatbutton": {
-      "phone": "+17133846424",
-      "message": "",
-      "size": "65px",
-      "backgroundColor": "#e5ddd5",
-      "position": "left",
-      "popupMessage": "Hi!👋\n\nHow can I help you today?",
-      "showPopup": true,
-      "showOnIE": true,
-      "autoOpenTimeout": "5",
-      "headerColor": "#39847a",
-      "headerTitle": "👋 Chat with me on WhatsApp!",
-      "placeholder": "Type here",
-      "zIndex": 10,
-      "enabled": true
-    },
     "favicon": false,
-    "mbrsiteDomain": "3ddsqwaqfu",
+    "mbrsiteDomain": "ciwcyctfgs",
     "robotsSwitcher": false,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
@@ -74,7 +58,8 @@
     "publishChangesOnly": true,
     "mcSmartCart": {
       "currency": "USD"
-    }
+    },
+    "chatbutton": false
   },
   "pages": {
     "index.html": {
